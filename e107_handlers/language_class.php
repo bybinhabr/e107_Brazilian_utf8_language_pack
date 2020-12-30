@@ -48,7 +48,7 @@ class language{
             "bi" => "Bislama",
             "bo" => "Tibetan",
             "bs" => "Bosnian",
-            "br" => "Brazilian",
+            "br" => "Breton",
             "bg" => "Bulgarian",
             "my" => "Burmese",
             "ca" => "Catalan",
@@ -196,11 +196,13 @@ class language{
             "yo" => "Yoruba",
             "za" => "Zhuang",
            // "zh" => "Chinese",
-            "zu" => "Zulu"
+            "zu" => "Zulu",
+            "br" => "Brazilian"
         );
 
 		protected $names = array(
 			"Arabic" 		=> "العربية",
+			"Brazilian"     => "Português do Brasil",
 			"Bengali"		=> "বাংলা",
 			"Bosnian"		=> "Bosanski",
 			"Bulgarian"		=> "Български",
